@@ -3,22 +3,22 @@
 > My name is Rahmatan lil alamin, currently in Jakarta, Indonesia. Knew computers since elementary school and was interested in coding since then too. My experience is mostly when i became a freelance, handle 10+ web projects (full-stack) with 2 years professional experience and currently moving to a game developer (FiveM) with 3 years professional experience.
 Right now im enjoying life, learning what i want to know, like how to understand women.
 <p align="center">
-    <a href="https://github.com/nurrifqialhusaini" target="_blank">
+    <a href="https://github.com/Elzeinn" target="_blank">
         <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
     </a> 
-    <a href="https://linkedin.com/in/alhus/" target="_blank">
+    <a href="https://linkedin.com/" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://instagram.com/@nurrifqialhusaini" target="_blank">
+    <a href="https://instagram.com/@rhmtnlilalamim" target="_blank">
         <img alt="Instagram" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="https://facebook.com/nurrifqialhusaini.id" target="_blank">
+    <a href="https://facebook.com/" target="_blank">
         <img alt="Facebook" src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
-    <a href="https://tiktok.com/@imalhus" target="_blank">
+    <a href="https://tiktok.com/@red9hoods" target="_blank">
         <img alt="Tiktok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
     </a>
-    <a href="https://youtube.com/@alhus" target="_blank">
+    <a href="https://youtube.com/" target="_blank">
         <img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCcPSKwUtyM7rMkzW3mrsShA?style=for-the-badge&logo=youtube&logoColor=white" />
     </a>
 </p>
